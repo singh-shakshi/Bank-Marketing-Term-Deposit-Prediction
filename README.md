@@ -63,7 +63,7 @@ An interactive **Power BI dashboard** visualizes subscription rates by occupatio
 ├── README.md
 ├── IBM_Internship_Bank_Marketing_Report.docx        # Full written report
 ├── Bank_Marketing_Analysis_and_Prediction.ipynb      # EDA + ML notebook
-├── IBM_Internship_Bank_Marketing_Dashboard.pbix      # Power BI dashboard file
+├── IBM_project_dashboard.pbix            # Power BI dashboard file
 ├── IBM_Internship_Bank_Marketing_Dashboard.png       # Dashboard screenshot
 └── Bank_Marketing_Dataset.csv                        # Dataset
 ```
